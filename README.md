@@ -29,7 +29,9 @@ Ensuring that my portfolio is designed to be responsive, meaning it looks good a
 Include links to my professional social media profiles, such as LinkedIn and Gmail.
 
 ### Technologies used
-React.js
-HTML
+1. React.js
+2. HTML
+3. CSS
+4. JS
 CSS
 JavaScript
