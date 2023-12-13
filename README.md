@@ -33,5 +33,4 @@ Include links to my professional social media profiles, such as LinkedIn and Gma
 2. HTML
 3. CSS
 4. JS
-CSS
-JavaScript
+
